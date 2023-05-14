@@ -17,6 +17,12 @@
 # SOFTWARE.
 
 
+# important (used sources for writing this script) and useful (for improving the script):
+# developed in python 3.7 and qt5 
+# https://note.nkmk.me/en/python-pillow-concat-images/
+# https://stackoverflow.com/questions/47483951/how-to-define-a-threshold-value-to-detect-only-green-colour-objects-in-an-image
+
+
 print ('hello me')
 
 import os, sys, glob
