@@ -1,5 +1,4 @@
 # green_search
------------------
 HUE indicator - color (apearence) based image analysis.
 -------------------
 Simple python script for sharing and teaching conceptual framework of crop cover analysis in the field based on images (percent of "green" pixels in image - in relative terms).
