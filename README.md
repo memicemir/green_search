@@ -1,11 +1,10 @@
 # green_search
 -----------------
- HUE indicator - color (apearence) based image analysis
+HUE indicator - color (apearence) based image analysis.
 -------------------
- simple script for sharing and teaching crop cover in field based on images
+Simple python script for sharing and teaching conceptual framework of crop cover analysis in the field based on images (percent of "green" pixels in image - in relative terms).
 ------------------------
- Recquired:
-	python 3.7, and 
-	pyqt5
+Written in python (v: 3.7) with interface created in qt-designer (qt5).
 ------------------
- if interface moddified in qt-designer it has to be compiled after changes have been saved: "pyuic5 -x greenSearchUserInterface.ui -o greenSearchUserInterface.py"
+If interface is moddified in qt-designer it has to be compiled: "pyuic5 -x greenSearchUserInterface.ui -o greenSearchUserInterface.py".
+This py compilation is imported in "greenSearch_v1.py" through "from greenSearchUserInterface import Ui_MainWindow" line in python script.
