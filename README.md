@@ -7,6 +7,7 @@ Written in python (v: 3.7) with interface created in qt-designer (qt5).
 ------------------
 Need to be install before:
 - python (3.7)
+- qt5
 - open cv2
 - numpy
 - matplotlib
